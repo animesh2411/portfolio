@@ -46,7 +46,7 @@ Push changes to the `main` branch and GitHub Pages will instantly update your si
 
 ## 📸 Preview
 
-![Portfolio Preview](images/img.jpg)
+![Portfolio Preview](images/img.png)
 
 ---
 
