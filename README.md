@@ -46,8 +46,7 @@ Push changes to the `main` branch and GitHub Pages will instantly update your si
 
 ## 📸 Preview
 
-![Portfolio Preview](https://github.com/animesh2411/animesh-portfolio-1.github.io/raw/main/preview.png)
-![Uploading image.png…]()
+![Portfolio Preview](images/img.jpg)
 
 ---
 
